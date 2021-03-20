@@ -1,0 +1,40 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "张龙",
+            "money": 89,
+            "address": "贵州贵阳",
+            "state": "成功",
+            "date": "2021-1-1",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 2,
+            "name": "潘杰",
+            "money": 90,
+            "address": "贵州铜仁",
+            "state": "成功",
+            "date": "2021-1-1",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 3,
+            "name": "陈晨",
+            "money": 100,
+            "address": "黔西南",
+            "state": "成功",
+            "date": "2021-1-1",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 4,
+            "name": "杨康",
+            "money": 89,
+            "address": "贵州遵义",
+            "state": "成功",
+            "date": "2021-1-2",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        }
+    ],
+    "pageTotal": 4
+}
